@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://th.bing.com/th/id/OIP.ttWjD1o0r8dHjHfFvNB0RAHaE8?w=256&h=180&c=7&o=5&pid=1.7",
+      "name": "Hamburguer",
+      "price": "32.90",
+      "description": "Lanche",
+      "id": 5,
+      "available": true
     }
   ]
 }
